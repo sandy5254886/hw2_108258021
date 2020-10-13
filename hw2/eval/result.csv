@@ -1,0 +1,4 @@
+"method","sensitivity","specificity","F1","Loglikelihood","pseudoR2"
+"method1","0.34","0.5","0.45","-17.3","-1.01"
+"method2","0.34","0.43","0.47","-22.88","-2.61"
+"max","method1","method1","method2","method1","method1"
